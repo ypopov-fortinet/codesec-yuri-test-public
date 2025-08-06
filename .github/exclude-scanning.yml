@@ -1,0 +1,6 @@
+exclude:
+  paths:
+    - secret/**
+    - sast/**
+    - iac/**
+    - sca/**
